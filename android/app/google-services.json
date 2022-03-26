@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35370488427",
+    "project_id": "car-club-7f59d",
+    "storage_bucket": "car-club-7f59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35370488427:android:6655ca222b77f14dfb572e",
+        "android_client_info": {
+          "package_name": "com.example.e_cars_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35370488427-q4379sci2fntb07vtabl0i0nj2r4elkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_cars_ui",
+            "certificate_hash": "356e6c053b318aea825f56d85b3114b5892a344e"
+          }
+        },
+        {
+          "client_id": "35370488427-mqecjkhcpb3q495c35g9l3cg1ccdois3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5s2GcUFoyFVZ9qeBCjsww4pEACAElPRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35370488427-mqecjkhcpb3q495c35g9l3cg1ccdois3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
