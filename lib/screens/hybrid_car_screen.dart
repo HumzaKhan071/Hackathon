@@ -116,7 +116,7 @@ class _HybridCarsScreenState extends State<HybridCarsScreen> {
                     return Text('${snapshot.error}');
                   }
                   // By default, show a loading spinner.
-                  return const CircularProgressIndicator();
+                  return Center(child: const CircularProgressIndicator());
                 })),
       ),
     );
